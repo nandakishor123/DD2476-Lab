@@ -1,0 +1,25 @@
+QUERY_ID = 1,DOC_ID =  “Elaine_Kasimatis.f”,RELEVENCE_SCORE: 0
+QUERY_ID = 1,DOC_ID =  “Events_Calendars.f”,RELEVENCE_SCORE=  0
+QUERY_ID = 1,DOC_ID =  “Student_Organizations.f”,RELEVENCE_SCORE= 0
+QUERY_ID = 1,DOC_ID =  “Quantitative_Biology_and_bioinformatics.f,RELEVENCE_SCORE= 1
+QUERY_ID = 1,DOC_ID =  “Private Tutoring.f”,RELEVENCE_SCORE= 1
+QUERY_ID = 1,DOC_ID =  “Economics.f”,RELEVENCE_SCORE= 1
+ QUERY_ID = 1,DOC_ID =  “Biological_Systems_Engineering.f”,RELEVENCE_SCORE= 1
+ QUERY_ID = 1,DOC_ID =  “UC_Davis_English_Department.f”,RELEVENCE_SCORE= 0
+ QUERY_ID = 1,DOC_ID =  “Computer_Science.f”,RELEVENCE_SCORE= 2
+QUERY_ID = 1,DOC_ID =  “Whar_I_Wish_I_Knew_Before_Coming_T0_Uc_Davis_Etymology”, RELEVENCE_SCORE=2
+QUERY_ID = 1,DOC_ID =  “Evelin_Sylvia.f”,RELEVENCE_SCORE= 2
+QUERY_ID = 1,DOC_ID =  “Fiber_and_polymer_science.f”,RELEVENCE_SCORE=0
+QUERY_ID = 1,DOC_ID =  “UCD_Honors_and_prizes.f”,RELEVENCE_SCORE=0
+QUERY_ID = 1,DOC_ID =  “documents_translated.f”,RELEVENCE_SCORE=0
+QUERY_ID = 1,DOC_ID =  “Statistics”,RELEVENCE_SCORE =2
+QUERY_ID = 1,DOC_ID =  “University_Departments.f”,RELEVENCE_SCORE=1
+QUERY_ID = 1,DOC_ID =  “ECE_Course_Reviews.f”,RELEVENCE_SCORE= 0
+QUERY_ID = 1,DOC_ID =  “Hydrology.f”,RELEVENCE_SCORE=0
+QUERY_ID = 1,DOC_ID =  “MattHh.f”,RELEVENCE_SCORE=0
+QUERY_ID = 1,DOC_ID =  “Candidate_statements.f”,RELEVENCE_SCORE=0
+QUERY_ID = 1,DOC_ID =  “Wildlife%2C_Fish%2C_and_Conservation_Biology.f”,RELEVENCE_SCORE=0
+QUERY_ID = 1,DOC_ID =  “Mathematics.f”,RELEVENCE_SCORE=3
+
+
+

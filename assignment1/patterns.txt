@@ -1,0 +1,40 @@
+//
+//  Information retrieval course
+//  First version: Johan Boye 2016
+//
+// In this file you can put your regular expressions
+// for matching non-standard words (like mail addresses).
+//
+// As you have probably already understood, lines beginning
+// with "//" are comments.
+
+// ADD YOUR PATTERNS HERE
+
+//e-mail
+(\w+\.\w+|\w+|\w+\..\w+)@(\w+)(\.\w+)*
+
+//website-uri
+https?([^\s\w]+\w+)+(\w+|[^\w\s])
+
+//RFC
+\RFC+\d+
+
+//date
+\d+/\d+/\d
+
+//time
+\d{2}:\d{2}:\d{2}
+
+\\year
+\w+.\w+
+
+\\phone-number
+
+\\IP
+\d+(\.\d+)+
+
+//file names
+\w+\.\w+\.?
+
+// Twenty-four seven
+\d+/\d+
